@@ -1,0 +1,20 @@
+.h-dark{
+    background-color: #00092C;
+}
+.nav-list{
+    text-decoration: none;
+}
+.nav-list:hover{
+    /* text-decoration: underline; */
+    text-transform: uppercase;
+    color: #4C0070;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 3ms;
+}
+.togle{
+    color: #00092C;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
